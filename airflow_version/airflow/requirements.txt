@@ -1,0 +1,7 @@
+Minio
+findspark
+pandas
+numpy
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-amazon
+apache-airflow-providers-odbc
